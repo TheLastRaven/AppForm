@@ -2,7 +2,7 @@
 If you want to request your application into the database,
 you need to follow this document.
 
-**Submit your changes at the [Isuses]("https://github.com/ROS-AppDB/AppForm/issues")!**
+**Submit your changes at the [Isuses]("https://github.com/ROS-AppDB/AppForm/issues") section!**
 
 ## Program Rating
 Every program has a rating:
