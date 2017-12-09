@@ -1,6 +1,6 @@
 # Application Form
 If you want to request an application into the database,
-you need to follow this document.
+you need to do it reffering to the example given below.
 
 **Submit your changes at the [Isuses](https://github.com/ROS-AppDB/AppForm/issues) section!**
 
