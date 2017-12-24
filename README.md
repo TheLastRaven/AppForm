@@ -19,7 +19,7 @@ Every program has a rating:
   * **Program author:** <author, e.g. Mcpg, Google>
   * **Program URL:** <if it has one, e.g. https://minecraft.net>
   * **ReactOS version:** <correct version (like 0.4.8), or build revision (like 0.4.8 build cbf0430)
-  * **Test time:** <when the program was tested, like 12th November 2017>
+  * **Test time:** <when the program was tested, in format DD/MM/YYYY>
   * **What works:** <post everything that works, you can do it in Markdown list, help link is posted above>
   * **What doesn't work:** <just like What Works section - post everything that doesn't work>
   * **What wasn't tested:** <if you didn't test some features, write it here>
