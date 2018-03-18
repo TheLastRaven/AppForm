@@ -17,10 +17,10 @@ Every program has a rating:
 # [program name] ([program version])
   * **Rating:** <garbage - platinum>
   * **Program author:** <author, e.g. Mcpg, Google>
-  * **Program URL:** <if it has one, e.g. https://minecraft.net>
+  * **Program URL:** <if it has one, e.g. https://minecraft.net >
   * **ReactOS version:** <correct version (like 0.4.8), or build revision (like 0.4.8 cbf0430)
   * **Test time:** <when the program was tested, in format DD/MM/YYYY>
-  * **What works:** <post everything that works, you can do it in Markdown list, help link is posted above>
+  * **What works:** <post everything that works, you can do it in Markdown list>
   * **What doesn't work:** <just like What Works section - post everything that doesn't work>
   * **What wasn't tested:** <if you didn't test some features, write it here>
   * **Additional comments:** <if you needed to do some hacks to get the program working, post it here>
